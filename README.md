@@ -14,4 +14,6 @@ Enter the conditions you want to use for the **104 Job Bank** crawler into confi
 # Step3 - execute 104_crawler_new.py  
 
 Use Python to execute 104_crawler_new.py then the jobs as you need would be saved in the 104_jobs.xlsx.  
+`python 104_crawler_new.py`  
+
 
